@@ -25,7 +25,7 @@
 </div>
 
 <div align=center>
-<img src="http://image.yingzq.com/img/20191028235727.png" width="500" alt="第三轮：推理型问题" />
+<img src="http://image.yingzq.com/img/20191102010228.png" width="500" alt="第三轮：推理型问题" />
 
 第三轮：推理型问题
 
