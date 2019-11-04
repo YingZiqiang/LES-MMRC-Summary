@@ -62,9 +62,7 @@
 
 ## 前10团队开源代码（持续更新）
 
-暂无
-
-我所在的团队（Lucky Boys）整理好代码后会开源，只不过成绩不理想，但是架构非常简洁，可以当做基线接着做。
+- [第7名 Lucky Boys团队](https://github.com/SunnyMarkLiu/les-military-mrc-rank7)
 
 ## 个人分析
 
