@@ -62,6 +62,7 @@
 
 ## 前10团队开源代码（持续更新）
 
+- [第6名 苏小易团队](https://github.com/caishiqing/joint-mrc)
 - [第7名 Lucky Boys团队](https://github.com/SunnyMarkLiu/les-military-mrc-rank7)
 
 ## 个人分析
