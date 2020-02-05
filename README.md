@@ -55,8 +55,10 @@
 ## 前10团队技术分享（持续更新）
 
 - [第1名 “莱斯杯”第二届军事机器阅读理解挑战赛Rank1分享](https://www.kesci.com/home/project/5dbbec9f080dc300371eda5d)
-- [第2名 莱斯杯：全国第二届“军事智能机器阅读”挑战赛Rank2分享](https://www.kesci.com/home/project/5dbd09b3080dc300371f056f)
-- [第4名 和鲸社区(Kesci)·第二届“莱斯杯”挑战赛三等奖获得者技术方案分享](https://www.bilibili.com/video/av74006222?from=search&seid=14864289781361104410M)
+- [第2名 “莱斯杯”第二届军事机器阅读理解挑战赛Rank2分享](https://www.kesci.com/home/project/5dbd09b3080dc300371f056f)
+- [第4名 “莱斯杯”第二届军事机器阅读理解挑战赛Rank4分享](https://www.kesci.com/home/project/5dc26951080dc300371ffa4a)
+- [第6名 “莱斯杯”第二届军事机器阅读理解挑战赛Rank6分享](https://www.kesci.com/home/project/5dc27068080dc300371ffc7a)
+- [第7名 “莱斯杯”第二届军事机器阅读理解挑战赛Rank7分享](https://www.kesci.com/home/project/5dc27c16080dc300372000d3)
 
 > 这部分是选手本身做的一些分享，应该是比较清晰，也比较权威的；这里也感谢科赛平台的邀稿才让我们看到这些技术方案分享
 
@@ -99,7 +101,7 @@ baseline的老哥由于种种原因并没有放出PPT，但是在大赛群里简
 
 ### Lxy团队
 
-该团队是初赛和复赛的第一，也放出了答辩PPT和详细的[技术分享](https://www.bilibili.com/video/av74006222?from=search&seid=14864289781361104410)，可以仔细研究。
+该团队是初赛和复赛的第一，也放出了答辩PPT和详细的[技术分享](https://www.kesci.com/home/project/5dc26951080dc300371ffa4a)，可以仔细研究。
 
 Lxy致力于预训练模型架构的优化，给人一种耳目一新的赶脚，简单说一下他们的思路：
 
